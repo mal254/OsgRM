@@ -1,0 +1,12 @@
+/venv/
+/.idea/
+.pytest_cache
+tests/.pytest_cache
+__pycache__
+*.iml
+.env
+report
+allure-results
+test_driver.py
+/allure_report
+geckodriver.log
